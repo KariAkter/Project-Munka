@@ -48,6 +48,7 @@ async function getLeaderboard()
     }
 }
 
+//test
 async function addToLeaderboard(id, value)
 {
     try {
